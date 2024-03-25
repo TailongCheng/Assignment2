@@ -10,7 +10,7 @@
 
 	<div id="header" class="mainHeader">
 		<hr>
-		<div class="center"> Lastname Caf&eacute;</div>
+		<div class="center"> Cheng Caf&eacute;</div>
 	</div>
 	<br>
 	<hr>
