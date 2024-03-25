@@ -11,12 +11,12 @@
 	<div id="header" class="mainHeader">
 	<?php echo '<p>PHP is Installed and Working</p>'; ?>
 		<hr>
-		<div class="center"> Lastname Caf&eacute;</div>
+		<div class="center"> Cheng Caf&eacute;</div>
 	</div>
 	<br>
 	<hr>
 	<div class="topnav">
-		<a href="index.html">Home</a>
+		<a href="index.php">Home</a>
 		<a href="#aboutUs">About Us</a>
 		<a href="#contactUs">Contact Us</a>
 	</div>
@@ -78,7 +78,7 @@
 					<td><p>Frank and Martha have been adding sweetness to their customers' lives since 2020.  Frank's recipes have been passed down from his mother and use simple and fresh ingredients to produce delightful flavors.  Both of them will personally greet you with a welcoming smile when you visit!</p></td>
 				</tr>
 				<tr>
-					<td><form action="lastname.html" method="get">
+					<td><form action="cheng.php" method="get">
 					<input type="submit" value="See Our Employee List!">
 					</td></form>
 				</tr>
