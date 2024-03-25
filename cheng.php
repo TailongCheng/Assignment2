@@ -30,7 +30,7 @@
 				</tr>
 			</table>
 			<hr>
-			<div id="header" class="mainHeader"><p>Lastname caf&eacute; Employee List!</p></div>
+			<div id="header" class="mainHeader"><p>Cheng caf&eacute; Employee List!</p></div>
 			<br>
 
 		<?php
